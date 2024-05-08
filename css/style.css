@@ -1,0 +1,32 @@
+@font-face{
+  font-family:'alegreya';
+  src: url('../fonts/Alegreya-Italic.ttf');
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'alegreya';
+}
+canvas {
+  display: block;
+  
+}
+
+
+#next-page-link{
+  position: absolute;
+  left:90%;
+  top:93%;
+  font-size: 20pt;
+  color: antiquewhite;
+
+}
+
+#home-page-link{
+  position: absolute;
+  left:90%;
+  top:93%;
+  font-size: 20pt;
+  color: antiquewhite;
+}
