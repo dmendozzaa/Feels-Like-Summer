@@ -72,6 +72,6 @@ function draw() {
   }
 
     textToRotate = (" Seven billion souls that move around the sun");
-    rotateText(width/2.05, 430, 350, textToRotate, rotation);
+    rotateText(width/2.08, 480, 400, textToRotate, rotation);
 }
 
