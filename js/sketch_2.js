@@ -46,7 +46,7 @@ function draw() {
   
   if (mouseX > 650 && mouseY > 600) {
    
-    text("THE HEAT", 800, 650);
+    text("THE HEAT", 850, 800);
   }
 
  
