@@ -26,27 +26,27 @@ function draw() {
 	stroke(255, 204, 0);
   fill('#FF5349');
   
-  if (mouseX > 200 && mouseY > 100) {
+  if (mouseX > 200 && mouseY > 150) {
    
-    text("You can feel it", 60,100);
+    text("You can feel it", 60,150);
   } 
   textSize(width*(90/1440));
-  if (mouseX > 300 && mouseY > 250) {
+  if (mouseX > 300 && mouseY > 300) {
  
-    text("In the streets", 300, 300);
+    text("In the streets", 300, 380);
   }
   
   textSize(width*(90/1440));
-  if (mouseX > 500 && mouseY > 350) {
+  if (mouseX > 500 && mouseY > 500) {
  
-    text("On a day like this", 450, 500);
+    text("On a day like this", 500, 600);
   }
   textSize(width*(120/1440));
   
   
-  if (mouseX > 650 && mouseY > 600) {
+  if (mouseX > 750 && mouseY > 750) {
    
-    text("THE HEAT", 850, 800);
+    text("THE HEAT", 950, 850);
   }
 
  
