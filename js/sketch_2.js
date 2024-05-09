@@ -28,25 +28,25 @@ function draw() {
   
   if (mouseX > 200 && mouseY > 150) {
    
-    text("You can feel it", width/20, heigth/7);
+    text("You can feel it", 60, 150);
   } 
   textSize(width*(90/1440));
   if (mouseX > 300 && mouseY > 300) {
  
-    text("In the streets", width/6, heigth/2.8);
+    text("In the streets", 300, 380);
   }
   
   textSize(width*(90/1440));
   if (mouseX > 500 && mouseY > 500) {
  
-    text("On a day like this", width/3.8, height/1.7);
+    text("On a day like this", 500, 600);
   }
   textSize(width*(120/1440));
   
   
   if (mouseX > 750 && mouseY > 750) {
    
-    text("THE HEAT", width/2, height/1.2);
+    text("THE HEAT", 950, 850);
   }
 
  
